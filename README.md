@@ -5,7 +5,9 @@ Imagine playing a game, specifically Assetto Corsa Competizione, and you wished 
 # Usage
 
 Make sure you are able to somehow compile C++
+
 Make sure you downloaded the file
+
 Compile and run
 
 # FAQ
