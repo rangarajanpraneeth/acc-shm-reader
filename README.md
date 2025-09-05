@@ -16,7 +16,6 @@ Compile and run
 
 Maybe try opening the game
 
-
 **2) But my game is open!!!**
 
 Maybe try opening the file you downloaded
