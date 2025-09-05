@@ -4,8 +4,12 @@ Imagine playing a game, specifically Assetto Corsa Competizione, and you wished 
 
 # Usage
 
-Make sure you are able to somehow compile C++
+1) Make sure you are able to somehow compile C++
 
-Make sure you downloaded the file
+2) Make sure you downloaded the file
 
-Compile and run
+3) Compile and run
+
+# Notice
+
+By the way, I am working on a side project. It's a drop in replacement for the cluttered mess that is MoTeC I2. It will also be real time instead of post lap analysis like MoTeC. If that sounds interesting to you, sign up for the waitlist, because it is coming SOON.
