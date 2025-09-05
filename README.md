@@ -4,9 +4,9 @@ Imagine playing a game, specifically Assetto Corsa Competizione, and you wished 
 
 # Usage
 
-1. Make sure you are able to somehow compile C++
-2. Make sure you downloaded the file
-3. Compile and run
+Make sure you are able to somehow compile C++
+Make sure you downloaded the file
+Compile and run
 
 # FAQ
 
