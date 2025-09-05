@@ -2,6 +2,8 @@
 
 Imagine playing a game, specifically Assetto Corsa Competizione, and you wished there was a way to read its shared memory. Here's your solution.
 
+The code isn't fully complete yet it is missing some enums.
+
 # Usage
 
 1 - Make sure you are able to somehow compile C++
