@@ -12,10 +12,11 @@ Compile and run
 
 # FAQ
 
-**I have no output!!!**
+**1) I have no output!!!**
 
 Maybe try opening the game
 
-**But my game is open!!!**
+
+**2) But my game is open!!!**
 
 Maybe try opening the file you downloaded
