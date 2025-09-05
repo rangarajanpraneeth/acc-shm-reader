@@ -3,12 +3,11 @@
 
 #include <windows.h>
 
-// It's crucial to tell the compiler not to add any padding to these structs.
-// If padding were added, the memory layout in our program wouldn't match
-// the layout provided by the game, leading to incorrect data being read.
 #pragma pack(push, 1)
 
-// --- Enums to represent various game states ---
+// TODO: implement the 5 or something other missing enums
+
+// TODO: change all the member names
 
 enum class ACC_STATUS : int
 {
@@ -274,12 +273,8 @@ struct SPageFileStatic
    wchar_t wetTyresName[33];
 };
 
-// Restore the default compiler padding settings
 #pragma pack(pop)
 
-// A template class to simplify the process of mapping the shared memory.
-// It handles opening the memory map in its constructor and ensures
-// that all handles are closed and the memory is unmapped in its destructor.
 template <typename T>
 struct SharedMemory
 {
@@ -303,8 +298,6 @@ struct SharedMemory
       }
    }
 
-   // The destructor is crucial for resource management. It automatically
-   // cleans up when the SharedMemory object goes out of scope.
    ~SharedMemory()
    {
       if (buffer != nullptr)
@@ -318,4 +311,4 @@ struct SharedMemory
    }
 };
 
-#endif // ACC_SHM_H
+#endif
