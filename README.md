@@ -4,11 +4,11 @@ Imagine playing a game, specifically Assetto Corsa Competizione, and you wished 
 
 # Usage
 
-1) Make sure you are able to somehow compile C++
+1 - Make sure you are able to somehow compile C++
 
-2) Make sure you downloaded the file
+2 - Make sure you downloaded the file
 
-3) Compile and run
+3 - Compile and run
 
 # Notice
 
