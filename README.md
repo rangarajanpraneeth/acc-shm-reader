@@ -2,8 +2,6 @@
 
 Imagine playing a game, specifically Assetto Corsa Competizione, and you wished there was a way to read its shared memory. Here's your solution.
 
-The code isn't fully complete yet it is missing some enums.
-
 # Usage
 
 1 - Make sure you are able to somehow compile C++
@@ -11,6 +9,12 @@ The code isn't fully complete yet it is missing some enums.
 2 - Make sure you downloaded the file
 
 3 - Compile and run
+
+# Disclaimer
+
+This will NOT print anything, you have to write your own implementation for that, or wait till I write one and upload it here.
+
+This probably leaks OS resources, we don't know, we also don't care.
 
 # Notice
 
